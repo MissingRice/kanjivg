@@ -71,5 +71,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 57.25 39.53)">9</text>
 	<text transform="matrix(1 0 0 1 56.50 52.50)">10</text>
 	<text transform="matrix(1 0 0 1 53.50 11.50)">11</text>
+	<text transform="matrix(1 0 0 1 76.50 63.05)">12</text>
 </g>
 </svg>
